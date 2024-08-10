@@ -8,3 +8,32 @@
     background-color: blueviolet;
     font-size: 90px;
 }
+.texto{
+    color:#99ff00;
+    font-size: 40px;
+}
+.Atractivos{
+    color: #46453a;
+    font-size: 40px;
+}
+.Contacto{
+    color: #8123de;
+    font-size: 40px;
+}
+.Recreo{
+    color: #11ff88;
+    font-size: 40px;
+}
+.Avent{
+    color: #135;
+    font-size: 40px;
+}
+.Des{
+    color: #540;
+    font-size: 40px;
+}
+.Turismo{
+    color: black;
+    background-color: aquamarine;
+    font-size: 65px;
+}
