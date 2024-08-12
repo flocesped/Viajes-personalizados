@@ -37,3 +37,28 @@
     background-color: aquamarine;
     font-size: 65px;
 }
+.at1{
+    background-color:#135;
+    width: 50%;
+    height: 90vh;
+    margin: auto;
+}
+.at2{
+    background-color: #8123de;
+    width: 40%;
+    height: 40vh;
+    margin: auto;
+}
+.at3{
+    background-color: #99ff00;
+    width: 30%;
+    height: 30vh;
+    margin: auto;
+    margin-top: auto;
+}
+.at4{
+    background-color: aqua;
+    width: 20%;
+    height: 20vh;
+    margin: auto;
+}
