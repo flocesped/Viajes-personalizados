@@ -1,3 +1,6 @@
+.Turismo{
+    background-image: url(../imagenes/fondo.png)
+}
 .Bienvenidos{
     color:black;
     background-color: antiquewhite;
@@ -9,28 +12,35 @@
     font-size: 90px;
 }
 .texto{
-    color:#99ff00;
+   
+    color:#46453a;
     font-size: 40px;
+    padding: 2%;
 }
 .Atractivos{
     color: #46453a;
     font-size: 40px;
+    padding: 2%;
 }
 .Contacto{
-    color: #8123de;
+    color: #46453a;
     font-size: 40px;
+    padding: 2%;
 }
 .Recreo{
-    color: #11ff88;
+    color: #46453a;
     font-size: 40px;
+    padding: 2%;
 }
 .Avent{
-    color: #135;
+    color:#46453a;
     font-size: 40px;
+    padding: 2%;
 }
 .Des{
-    color: #540;
+    color:#46453a;
     font-size: 40px;
+    padding: 2%;
 }
 .Turismo{
     color: black;
@@ -42,6 +52,7 @@
     width: 50%;
     height: 90vh;
     margin: auto;
+
 }
 .at2{
     background-color: #8123de;
@@ -61,4 +72,56 @@
     width: 20%;
     height: 20vh;
     margin: auto;
+}
+
+.Atp1{
+    padding:2%;
+}
+.Atp2{
+    padding: 2%;
+}
+.Atp3{
+    padding: 2%;
+}
+.Atp4{
+    padding: 2%;
+}
+
+.Regist{
+    font-size: 50px;
+}
+input{
+    width: 50%;
+    font-size: 50px;
+}
+.elementopadre{
+    list-style-type: none;
+    padding: 0%;
+    border:1px solid black;
+    display: flex;
+    flex-direction: column;
+  
+}
+.elementopadre li{
+    border: 1px solid salmon;
+    padding: 5px;
+}
+/*.Elemento1{
+    background-color: #8123de;
+    color: aliceblue;
+    flex-grow: 3;
+}
+.Elemento2{
+    background-color: #540;
+    color: #46453a;
+    flex-basis: 10%;
+    
+}*/
+@media (min-width: 767px){
+    .elementopadre{
+        display: flex;
+        flex-direction: row;
+        background-color: #99ff00;
+    }
+
 }
