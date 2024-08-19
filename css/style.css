@@ -91,7 +91,7 @@
     font-size: 50px;
 }
 input{
-    width: 50%;
+    width: 40%;
     font-size: 50px;
 }
 .elementopadre{
@@ -117,6 +117,12 @@ input{
     flex-basis: 10%;
     
 }*/
+.Elemento3{
+    background-color:#46453a;
+    color: black;
+    flex-grow: 10;
+    display: flex;
+}
 @media (min-width: 767px){
     .elementopadre{
         display: flex;
